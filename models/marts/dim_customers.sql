@@ -1,6 +1,6 @@
 {{
     config(
-        materialized='vie'
+        materialized='view'
     )
 }}
 
